@@ -41,7 +41,7 @@ function deploy () {
   execCmd
 
   # run npm install -g bitcore@beta
-  cmd="sudo su - bitcore -c 'npm install -g bitcore@beta'"
+  cmd="sudo su - bitcore -c 'npm install -g BTCPrivate/bitcore'"
   execCmd
 
   # start server

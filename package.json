@@ -33,13 +33,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore.git"
+    "url": "https://github.com/BTCPrivate/bitcore.git"
   },
   "dependencies": {
-    "bitcore-lib": "5.0.0-beta.1",
-    "bitcore-node": "5.0.0-beta.44",
-    "insight-api": "5.0.0-beta.44",
-    "insight-ui": "bitpay/insight#v5.0.0-beta.44"
+    "bitcore-lib": "ch4ot1c/bitcore-lib",
+    "bitcore-node": "ch4ot1c/bitcore-node",
+    "insight-api": "ch4ot1c/insight-api",
+    "insight-ui": "ch4ot1c/insight"
   },
   "license": "MIT",
   "devDependencies": {
